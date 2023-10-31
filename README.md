@@ -1,5 +1,4 @@
 # Saurav Amatya - A Journey in Tech
-![Saurav Amatya](saurav.jpg)
 <img src="saurav.jpg" alt="Saurav Amatya" width="50%" height="50%">
 
 ## Introduction
