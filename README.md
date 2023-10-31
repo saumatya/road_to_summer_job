@@ -1,6 +1,6 @@
 # Saurav Amatya - A Journey in Tech
-![Saurav Amatya](https://centriafi-my.sharepoint.com/:i:/g/personal/saurav_amatya_centria_fi/EaXLcB8A1p1Av-AyTKk9i1gBG27TVdHiZpSNDinvXmGCCQ?e=61ydkm)
-
+![Saurav Amatya](saurav.jpg)
+<img src="saurav.jpg" alt="Saurav Amatya" width="50%" height="50%">
 
 ## Introduction
 
