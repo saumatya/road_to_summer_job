@@ -6,15 +6,13 @@ Hello, I'm Saurav Amatya, and my story is intertwined with the ever-evolving wor
 
 ## Passion
 
-**Coding Odyssey:** My journey began with exploring various programming languages like C#, Java, Python, and more. The intricacies of code and the art of crafting elegant solutions have always fascinated me. There's an indescribable thrill in transforming a blank canvas into a functional masterpiece.
+**Coding Odyssey:** My journey began with C and C++ although until i started learning Java i had not stepped into development and understanding the software design. The intricacies of code and the art of crafting elegant solutions have always fascinated me. There's an indescribable thrill in transforming a blank canvas into a functional masterpiece.
 
 ## Interests
 
-**Tech Universe:** My interests span a wide range of technologies and tools, from web development with HTML/CSS and JavaScript to mobile app development for Android. I've ventured into cloud computing, embracing Microsoft Azure and Azure DevOps to enhance my projects. The dynamic world of FinTech and the intricacies of APIs like REST and SOAP fuel my curiosity.
+**Tech Universe:** My interests span a wide range of technologies and tools, from web development with HTML/CSS and JavaScript, C# .Net to mobile app development for Android. I've interested to learn more about front end development, which is a mixture of creative art and programming. The dynamic world of programming and the ever growing new technologies really fascinates me. 
 
-## Experience
-
-**Beyond Coding:** My exploration extends beyond coding. I've dived into the world of database design and management and have mastered software testing using tools like Postman and Swagger API. Crafting seamless user experiences and efficient systems is a challenge I eagerly accept.
+**Beyond Coding:** My exploration extends beyond coding. I've dived into the world of database design and management and have practiced software testing using tools like Postman and Swagger.
 
 ## Aspirations
 
@@ -24,20 +22,19 @@ Hello, I'm Saurav Amatya, and my story is intertwined with the ever-evolving wor
 
 ## Projects
 
-**Projects Done:** I've had the privilege of working on several projects, from developing Android applications to creating web applications. Notable projects include a "Hotel Management System" web application and a smartwatch application for carbon footprint tracking.
+**Projects Done:** I've had the privilege of working on International projects with Polar Electro Oy, developing Android application.
 
-**Projects Doing Currently:** I'm currently working on an international project with a German university, designing a logistics system for Ahola Digital Oy. This experience has provided valuable insights into collaboration and architectural styles.
+**Projects Doing Currently:** I'm currently working on an international project with collaboration with a German university, designing a logistics system for Ahola Digital Oy. This experience has provided valuable insights into collaboration and various software design methodologies and technology industry standards.
 
 ## Future Aspirations
 
-I'm eagerly learning React for frontend development and expanding my expertise in web application development. My goal is to encompass the entire spectrum of this field.
+I'm eagerly learning React for frontend development and expanding my expertise in web application development. My goal is to encompass the entire spectrum of this field as currently I have mostly worked in backend.
 
 ## Skills
 
-My skill set includes C#, ASP, .NET MVC, .NET Core, Swagger API, REST API, SOAP API, Web Hooks, SQL Server, JavaScript, HTML/CSS, Python, Java, GIT, FinTech, Web API, Web Services, Azure DevOps, Linux, Android, and Firebase.
+My skill set includes C#, ASP, .NET, REST API, SOAP API, SQL Server, JavaScript, HTML/CSS, Java, GIT, FinTech, Web Services, Azure DevOps, Linux, Android.
 
 For more details about my projects and skills, you can explore my [GitHub Repository](https://github.com/saumatya).
-
 
 # Project: Carbon Footprint Tracker for Wear OS Smartwatch
 
@@ -49,7 +46,7 @@ I had the privilege of working on an international project with Polar Electro Oy
 
 - **Platform**: Wear OS (Android)
 - **Programming Language**: Java
-- **Backend Data Persistence**: Online Database
+- **Backend Data Persistence**: Online Database Cloud Firestore
 
 ## Project Goals
 
