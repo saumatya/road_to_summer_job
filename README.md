@@ -6,7 +6,7 @@ Hello, I'm Saurav Amatya, second year IT student at Centria UAS, Finland and her
 
 ## Passion
 
-My journey began with C and C++ although until i started learning Java I had not stepped into development and understanding the software design. The intricacies of code and the art of crafting solutions to real world problems have always fascinated me. There's an indescribable thrill in transforming an idea into a functional system. 
+My journey began with C and C++ although until I started learning Java I had not stepped into development and understanding the software design. The intricacies of code and the art of crafting solutions to real world problems have always fascinated me. There's an indescribable thrill in transforming an idea into a functional system. 
 
 ## Interests
 
